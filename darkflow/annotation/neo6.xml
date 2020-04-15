@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>neo6.jpg</filename>
+	<path>C:\Users\user\Desktop\graduate lProject\darkflow-master\image\neo6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>neo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>553</ymin>
+			<xmax>715</xmax>
+			<ymax>971</ymax>
+		</bndbox>
+	</object>
+</annotation>
